@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Imran Hasan</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" alt="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrimhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mrimhasan" /> </p>
 
